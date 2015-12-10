@@ -1,2 +1,2 @@
 # FirstProject
-Test project in Git
+Test project in Git.
